@@ -2,7 +2,7 @@
 
 
 # Hi 👋, I'm Sajal Singhal
-
+---
 ### 🚀 Python Developer | AI Enthusiast | Full-Stack Developer | B.Tech CSE Student
 
 🎓 B.Tech Computer Science Engineering Student at SKIT Jaipur (2024–2028)
