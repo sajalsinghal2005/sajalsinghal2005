@@ -6,9 +6,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-![](https://komarev.com/ghpvc/?username=sajalsinghal2005&color=blue)
-
-
 # Hi 👋, I'm Sajal Singhal
 
 ---
