@@ -1,16 +1,157 @@
-## Hi there 👋
+# Hi 👋, I'm Sajal Singhal
 
-<!--
-**sajalsinghal2005/sajalsinghal2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Python Developer | AI Enthusiast | Full-Stack Developer | B.Tech CSE Student
 
-Here are some ideas to get you started:
+🎓 B.Tech Computer Science Engineering Student at SKIT Jaipur (2024–2028)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Software Development, Artificial Intelligence, Data Analytics, Full-Stack Development, and Problem Solving.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student at SKIT Jaipur
+- 💼 Python Developer Intern @ Ollosoft Technologies Pvt. Ltd.
+- 📊 Former Data Analytics Team Lead Intern @ UptoSkills
+- 🌐 Web Development Intern @ KSTechno Software
+- 🏆 Consolation Prize Winner – Subodh International Hackathon
+- 🤖 Building AI, Full-Stack, and Data Analytics Projects
+- 💡 Strong interest in Software Engineering and Emerging Technologies
+- 🌱 Currently learning DSA, Full Stack Development, AI Engineering, and System Design
+- 🎯 Looking for Internship and Collaboration Opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+💻 C++
+💻 Python
+💻 JavaScript
+💻 SQL
+
+### Frontend
+🎨 HTML
+🎨 CSS
+🎨 Bootstrap
+🎨 React
+
+### Tools & Platforms
+⚡ Git & GitHub
+⚡ Power BI
+⚡ MySQL
+⚡ VS Code
+⚡ Firebase
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 LinkUp AI
+AI-powered platform designed to help users with intelligent recommendations and productivity enhancement.
+
+### 🎓 Student Buddy
+A student-focused platform for improving academic collaboration and productivity.
+
+### 🐦 Django Tweet Project
+Twitter-inspired web application built using Django and Python.
+
+### ✅ Internship To-Do Task
+Task management platform for organizing and tracking internship activities.
+
+### 📈 Data Analytics Dashboards
+Created interactive Power BI dashboards and visualizations for extracting business insights.
+
+---
+
+## 🏆 Achievements
+
+🥉 Consolation Prize – Subodh International Hackathon
+
+🚀 Participated in Multiple Hackathons:
+- Subodh International Hackathon
+- Manipal Hackathon
+- Open Source Hackathon 2026
+- AI & Innovation-Based Hackathons
+
+🏅 Campus Ambassador – Nexus
+
+🏅 Multiple Technical Certifications in:
+- Modern C++
+- Python Programming
+- Data Structures & Algorithms
+- Java (Basic & Advanced)
+
+---
+
+## 💼 Experience
+
+### Python Developer Intern
+**Ollosoft Technologies Pvt. Ltd.**
+- Python development and debugging
+- Code optimization and testing
+- Industry-level development practices
+
+### Data Analytics Team Lead Intern
+**UptoSkills**
+- Data Cleaning and Analysis
+- Dashboard Development using Power BI
+- Team Leadership and Project Management
+- Data Visualization and Reporting
+
+### Web Development Intern
+**KSTechno Software**
+- Responsive Web Design
+- Frontend Development using HTML, CSS, Bootstrap
+- UI Enhancement and Optimization
+
+---
+
+## 📚 Education
+
+🎓 B.Tech in Computer Science Engineering
+SKIT Jaipur (2024 – 2028)
+
+🏫 Senior Secondary Education
+Sony Academy Senior Secondary School
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Web Development
+- Artificial Intelligence
+- System Design
+- Open Source Development
+
+---
+
+## 📈 GitHub Goals
+
+✔ Build impactful AI projects
+
+✔ Contribute to Open Source
+
+✔ Strengthen DSA and Problem Solving Skills
+
+✔ Secure Software Development & AI Engineering Opportunities
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email:
+sajalsinghal62650@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/sajal-singhal-446002318
+
+💻 LeetCode:
+https://leetcode.com/u/Sajal2010/
+
+---
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+Thanks for visiting my profile! Feel free to connect and collaborate. 🚀
