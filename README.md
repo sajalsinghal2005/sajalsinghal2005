@@ -6,11 +6,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajalsinghal2005&show_icons=true)
-
-
-
-
 ![](https://komarev.com/ghpvc/?username=sajalsinghal2005&color=blue)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sajal2010?theme=dark&font=Karma)
