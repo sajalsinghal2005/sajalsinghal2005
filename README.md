@@ -8,7 +8,7 @@
 
 ![Sajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=sajalsinghal2005&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sajalsinghal2005)
+
 
 
 ![](https://komarev.com/ghpvc/?username=sajalsinghal2005&color=blue)
