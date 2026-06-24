@@ -8,7 +8,6 @@
 
 ![](https://komarev.com/ghpvc/?username=sajalsinghal2005&color=blue)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sajal2010?theme=dark&font=Karma)
 
 # Hi 👋, I'm Sajal Singhal
 
