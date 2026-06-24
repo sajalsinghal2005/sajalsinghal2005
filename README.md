@@ -2,6 +2,7 @@
 
 
 # Hi 👋, I'm Sajal Singhal
+
 ---
 ### 🚀 Python Developer | AI Enthusiast | Full-Stack Developer | B.Tech CSE Student
 
